@@ -1,7 +1,13 @@
 <h1 align="center">Hi There 👋  Im Oscar ✨ </h1> 
 
 <p align="left">
-Passionate about cybersecurity, Artificial Intelligence, and Machine Learning. I’m driven by exploring how technology can protect, transform, and enhance the digital world. I enjoy learning, sharing ideas, and taking on projects that are technically and intellectually challenging. Always open to connecting and collaborating on innovative initiatives.
+For as long as I can remember, I have been fascinated by how technology can protect, transform, and shape the digital world. This constant curiosity led me to develop a deep interest in cybersecurity, as well as in Artificial Intelligence and Machine Learning—fields I consider essential for addressing today’s and tomorrow’s technological challenges.
+I firmly believe that learning is a continuous journey.
+
+I enjoy expanding my knowledge, developing new skills, and staying up to date with the latest trends in cybersecurity and applied AI. I am particularly motivated by exploring how Machine Learning can contribute to threat detection, process automation, and improved decision-making in digital environments.
+
+I like surrounding myself with innovative-minded people, sharing ideas, and participating in projects that present both intellectual and technical challenges. I am convinced that technology, when used responsibly, has tremendous potential to generate a positive impact.
+If we share interests, or if you simply want to connect and exchange ideas, I would be delighted to do so and explore new opportunities.
 
 📫 Contact: **oscardelario@gmail.com**
 <p align="left">
