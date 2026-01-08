@@ -12,6 +12,10 @@
 Passionate about cybersecurity, Artificial Intelligence, and Machine Learning. I’m driven by exploring how technology can protect, transform, and enhance the digital world. I enjoy learning, sharing ideas, and taking on projects that are technically and intellectually challenging. Always open to connecting and collaborating on innovative initiatives.
 
 📫 Contact: **oscardelario@gmail.com**
+<p align="left">
+<a href="https://www.linkedin.com/in/oscar-de-lario-ciberseguridad/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "oscardelario@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
 <!--Intro end-->
   </p>
 <br>
