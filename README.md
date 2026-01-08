@@ -27,6 +27,4 @@ If we share interests, or if you simply want to connect and exchange ideas, I wo
 
 </p>        
 <!--- stats (end) -->
-
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
  
