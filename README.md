@@ -16,7 +16,7 @@ Passionate about cybersecurity, Artificial Intelligence, and Machine Learning. I
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Technologies I use👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
