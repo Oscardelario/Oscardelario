@@ -22,7 +22,7 @@ If we share interests, or if you simply want to connect and exchange ideas, I wo
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,c,cs,cpp,java,php,css,html,mysql,sqlite,git,github,docker,postman,eclipse,vscode,bash,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,js,c,cs,cpp,java,php,css,html,mysql,sqlite,git,github,postman,eclipse,vscode,bash,linux&perline=12" />
   </a>
 </p>
 <br>
